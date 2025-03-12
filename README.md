@@ -20,6 +20,7 @@ I'm a software engineer student who is currently studying in Universidad de Ovie
 - Gaming
 - History
 - Cultural exchange and socializing
+
 I am from Gijón, Asturias, Spain this town is surrounded by football culture this has marked myself during my whole life. It may be surprising but this passion motivated me to study informatics I loved reading data of everything and when i was younger i was interested on bringing optimization to sports.
 
 ## Experience
